@@ -1,0 +1,6 @@
+AKRAM BENAOUN 130201106 (I.OGR)
+
+7 GUN HAVA DURUMU JAVA UYGULAMASI:
+NETBEANS-->open (Project) --> Built and clean --> Run -->refresh 
+
+Vaadin UI surekli hata verdigi için, normal java apllication kullandim
